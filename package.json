@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "*",
     "mongoose": "*",
-    "morgan": "~1.1.1",
+    "morgan": "~1.9.1",
     "body-parser": "~1.4.3",
     "bcrypt": "*",
     "cookie-parser": "*",
